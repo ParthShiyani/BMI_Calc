@@ -1,16 +1,6 @@
 # bmi_animation
 
-A new Flutter project.
+## About this app
+https://user-images.githubusercontent.com/111631451/195351854-3caa601a-2808-4502-a4c3-99408e21dd84.mp4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/111631451/195349118-b10b1ada-de7f-4d0b-87f5-a289bef268bb.png" style="height:500px"/>  <img src="https://user-images.githubusercontent.com/111631451/195348216-53145454-57fb-4b93-8edf-a00d0d69bd6e.png" style="height:500px"/>  <img src="https://user-images.githubusercontent.com/111631451/195348349-4080be21-d886-4f06-adb3-3ddfc4735f19.png" style="height:500px"/>  
